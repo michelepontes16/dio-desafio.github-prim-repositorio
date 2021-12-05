@@ -1,0 +1,21 @@
+git init: Este comando é usado para criar um novo repositório GIT.
+
+git add: Usado para adicionar arquivos ao índice.
+
+git clone: Usado para fins de verificação de repositório.
+
+git commit: Usado para confirmar as alterações na cabeça.
+
+git status: Exibe a lista de arquivos alterados juntamente com os arquivos que ainda não foram adicionados ou confirmados.
+
+git push: Envia as alterações feitas para o ramo mestre do repositório remoto associado ao diretório de trabalho.
+
+git checkout: Pode ser usado para criar ramos ou alternar entre eles. 
+
+git remote: Permite que um usuário se conecte a um repositório remoto.
+
+git branch: Pode ser usado para listar, criar ou excluir ramos.
+
+git pull: Para mesclar todas as alterações presentes no repositório remoto para o diretório de trabalho local, o comando pull é usado.
+
+git merge: Usado para mesclar uma ramificação no ramo ativo.
